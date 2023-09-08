@@ -1,5 +1,5 @@
 <?php
-$numero_password = isset($_POST['numero']) ? $_POST['numero'] : "nessun numero inserito";
+$numero_password = isset($_POST['numero']) ? $_POST['numero'] : "";
 
 
 // echo ($numero_password);
